@@ -417,4 +417,3 @@ function animate() {
     composer.render();
 }
 
-//test
